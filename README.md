@@ -1,20 +1,26 @@
-## Welcome to my profile! 
+# Привет! Welcome to my profile!
+---
 
-_______________
+## The languages that I prefer and in which I write various scripts and the projects themselves
 
-## My best languages are the ones I use to create projects and scripts:
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 
-_______________
+---
+## 📊 GitHub статистика
 
-## Contact me
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТвойНик&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ТвойНик&layout=compact&theme=dark)
 
--Discord: micros1ash
+---
 
-_______________
-<!--
+## 📫 Contact me
+
+- Discord: micros1ash
+
+---
+
+
 **m1croslash/m1croslash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
