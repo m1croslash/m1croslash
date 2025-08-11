@@ -1,5 +1,7 @@
-## Hi there 👋
+## My best languages are the ones I use to create projects and scripts. Welcome to my profile!
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 <!--
 **m1croslash/m1croslash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
