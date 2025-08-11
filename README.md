@@ -1,7 +1,7 @@
-# Hello! Welcome to my profile!
+## 👋 Hello! - 💫 Welcome to my profile!
 ---
 
-## The languages that I prefer and in which I write various scripts and the projects themselves
+## 👹 The languages that I prefer and in which I write various scripts and the projects themselves
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
