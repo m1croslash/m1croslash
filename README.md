@@ -1,11 +1,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=m1croslash&countColor=%23263759)
 
-### Hi there 👋
-Writing program-scripts - my addiction
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m1croslash&theme=dark&background=050505&ring=7E57C2&fire=7E57C2&currStreakLabel=7E57C2&sideNums=E2E8F0&currStreakNum=7E57C2&sideLabels=E2E8F0&dates=37474F&border=0F0F0F&stroke=0F0F0F&hide_border=false&type=svg&card_width=500)](https://github.com/m1croslash)
