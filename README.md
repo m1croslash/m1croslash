@@ -1,1 +1,7 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m1croslash&theme=dark&background=050505&ring=7E57C2&fire=7E57C2&currStreakLabel=7E57C2&sideNums=E2E8F0&currStreakNum=7E57C2&sideLabels=E2E8F0&dates=37474F&border=0F0F0F&stroke=0F0F0F&hide_border=false&type=svg&card_width=500)](https://github.com/m1croslash)
+<div align="center">
+  
+### ⚡ Статистика активности
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m1croslash&theme=dark&background=000000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=8892B0&currStreakNum=00D4FF&sideLabels=8892B0&dates=424657&border=1A1B26&stroke=1A1B26&hide_border=false&type=svg)](https://github.com/m1croslash)
+
+</div>
