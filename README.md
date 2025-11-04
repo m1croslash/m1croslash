@@ -1,7 +1,5 @@
 <div align="center">
 
-## 🚀 Development Analytics
-
 <table>
   <tr>
     <td width="50%">
