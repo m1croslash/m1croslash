@@ -7,4 +7,4 @@ Writing program-scripts - my addiction
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=m1croslash&theme=dark&background=000000&ring=ff2e2e&fire=ff2e2e&currStreakLabel=ff2e2e&sideNums=aaaaaa&currStreakNum=ff2e2e&sideLabels=aaaaaa&dates=666666)](https://github.com/m1croslash)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m1croslash&theme=dark&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideNums=8B949E&currStreakNum=FF6B6B&sideLabels=8B949E&dates=484F58&border=30363D&stroke=30363D)](https://github.com/m1croslash)
