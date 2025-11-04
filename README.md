@@ -1,2 +1,1 @@
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m1croslash&theme=dark&background=050505&ring=7E57C2&fire=7E57C2&currStreakLabel=7E57C2&sideNums=E2E8F0&currStreakNum=7E57C2&sideLabels=E2E8F0&dates=37474F&border=0F0F0F&stroke=0F0F0F&hide_border=false&type=svg&card_width=500)](https://github.com/m1croslash)
