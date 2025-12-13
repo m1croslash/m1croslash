@@ -1,37 +1,19 @@
-<p align="center">
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="32" alt="Python"/>
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="32" alt="JavaScript"/>
-  <!-- C -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="32" alt="C"/>
-  <!-- Linux -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="32" alt="Linux"/>
-  <!-- Termux -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/termux/termux-original.svg" height="32" alt="Termux"/>
-  <!-- Node.js -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js"/>
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="32" alt="Git"/>
-  <!-- Wireshark -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" height="32" alt="Wireshark"/>
-  <!-- Nmap -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" height="32" alt="Nmap"/>
-  <!-- Suricata -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/suricata/suricata-original.svg" height="32" alt="Suricata"/>
-  <!-- Tor -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tor/tor-original.svg" height="32" alt="Tor"/>
-  <!-- Tails -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tails/tails-original.svg" height="32" alt="Tails"/>
-  <!-- ByeByeDPI -->
-  <img src="https://raw.githubusercontent.com/ValdikSS/GoodbyeDPI/master/logo.png" height="32" alt="ByeByeDPI"/>
-  <!-- I2P -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/i2p/i2p-original.svg" height="32" alt="I2P"/>
-  <!-- DNSCrypt -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dnscrypt/dnscrypt-original.svg" height="32" alt="DNSCrypt"/>
-  <!-- MySQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="32" alt="MySQL"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![Termux](https://img.shields.io/badge/Termux-232526?style=plastic&logo=termux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1677FF?style=plastic&logo=wireshark&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=plastic&logo=nmap&logoColor=green)
+![Suricata](https://img.shields.io/badge/Suricata-4E4D57?style=plastic&logo=suricata&logoColor=white)
+![Byebyedpi](https://img.shields.io/badge/ByeByeDPI-49A5F1?style=plastic&logo=flask&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7F4785?style=plastic&logo=tor-project&logoColor=white)
+![Tails](https://img.shields.io/badge/Tails-41B6D9?style=plastic&logo=tails&logoColor=white)
+![DNSCrypt](https://img.shields.io/badge/DNSCrypt-1E56A0?style=plastic&logo=dnscrypt&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+
 <br/>
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=m1croslash&theme=red&bg_color=0A0A0A&title_color=800020&color=B76E79&line=C0C0C0&area=true&hide_border=false&area_color=1A1A1A)](https://github.com/m1croslash)
