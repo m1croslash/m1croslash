@@ -7,6 +7,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-3131BD?style=for-the-badge&logo=nmap&logoColor=white)
 
 <br/>
 
