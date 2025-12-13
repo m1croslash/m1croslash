@@ -3,12 +3,12 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
-![GNOME Terminal](https://img.shields.io/badge/GNOME_Terminal-241F31?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlmap&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-3131BD?style=for-the-badge&logo=nmap&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-FF6A00?style=for-the-badge&logo=suricata&logoColor=white)
 
 <br/>
 
