@@ -11,6 +11,8 @@
 ![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white)
 ![ByeByeDPI](https://img.shields.io/badge/ByeByeDPI-000000?style=for-the-badge&logo=firewall&logoColor=white)
+![Shadowsocks](https://img.shields.io/badge/Shadowsocks-000000?style=for-the-badge&logo=shadowsocks&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 
 <br/>
 
