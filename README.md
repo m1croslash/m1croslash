@@ -14,21 +14,21 @@
   <!-- Git -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="32" alt="Git"/>
   <!-- Wireshark -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Wireshark_logo.png" height="32" alt="Wireshark"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Wireshark_Logo.png" height="32" alt="Wireshark"/>
   <!-- Nmap -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nmap_Logo.svg" height="32" alt="Nmap"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Nmap_Logo_2016.svg" height="32" alt="Nmap"/>
   <!-- Suricata -->
-  <img src="https://suricata-ids.org/images/logo.png" height="32" alt="Suricata"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Suricata_Logo.png" height="32" alt="Suricata"/>
   <!-- Tor -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Tor-logo-2011.png" height="32" alt="Tor"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Tor_icon.png" height="32" alt="Tor"/>
   <!-- Tails -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Tails_logo.png" height="32" alt="Tails"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tails_OS_Logo.svg" height="32" alt="Tails"/>
   <!-- ByeByeDPI -->
   <img src="https://raw.githubusercontent.com/ValdikSS/GoodbyeDPI/master/logo.png" height="32" alt="ByeByeDPI"/>
   <!-- I2P -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/I2P_logo.png" height="32" alt="I2P"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/I2P_logo_whitebg.png" height="32" alt="I2P"/>
   <!-- DNSCrypt -->
-  <img src="https://dnscrypt.info/img/dnscrypt-logo.png" height="32" alt="DNSCrypt"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/DNSCrypt_logo.png" height="32" alt="DNSCrypt"/>
   <!-- MySQL -->
   <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="32" alt="MySQL"/>
 </p>
