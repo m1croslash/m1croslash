@@ -8,7 +8,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-3131BD?style=for-the-badge&logo=nmap&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-FF6A00?style=for-the-badge&logo=suricata&logoColor=white)
-![Onion](https://img.shields.io/badge/Onion-7D4698?style=for-the-badge&logo=onion&logoColor=white)
+![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
 
 
 <br/>
