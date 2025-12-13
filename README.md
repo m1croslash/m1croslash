@@ -10,7 +10,6 @@
 ![Suricata](https://img.shields.io/badge/Suricata-FF6A00?style=for-the-badge&logo=suricata&logoColor=white)
 ![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white)
-![.onion](https://img.shields.io/badge/.onion_sites-7D4698?style=for-the-badge&logo=onion&logoColor=white)
 
 <br/>
 
