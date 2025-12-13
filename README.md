@@ -13,6 +13,7 @@
 ![ByeByeDPI](https://img.shields.io/badge/ByeByeDPI-000000?style=for-the-badge&logo=firewall&logoColor=white)
 ![I2P](https://img.shields.io/badge/I2P-000000?style=for-the-badge&logo=i2p&logoColor=white)
 ![DNSCrypt](https://img.shields.io/badge/DNSCrypt-6A5ACD?style=for-the-badge&logo=dns&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/>
 
