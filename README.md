@@ -8,11 +8,12 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-3131BD?style=for-the-badge&logo=nmap&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-FF6A00?style=for-the-badge&logo=suricata&logoColor=white)
-![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white)
 ![ByeByeDPI](https://img.shields.io/badge/ByeByeDPI-000000?style=for-the-badge&logo=firewall&logoColor=white)
 ![Shadowsocks](https://img.shields.io/badge/Shadowsocks-000000?style=for-the-badge&logo=shadowsocks&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![I2P](https://img.shields.io/badge/I2P-000000?style=for-the-badge&logo=i2p&logoColor=white)
 
 <br/>
 
