@@ -14,6 +14,7 @@
 ![Shadowsocks](https://img.shields.io/badge/Shadowsocks-000000?style=for-the-badge&logo=shadowsocks&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 ![I2P](https://img.shields.io/badge/I2P-000000?style=for-the-badge&logo=i2p&logoColor=white)
+![DNSCrypt](https://img.shields.io/badge/DNSCrypt-6A5ACD?style=for-the-badge&logo=dns&logoColor=white)
 
 <br/>
 
