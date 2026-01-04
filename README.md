@@ -1,3 +1,4 @@
+Languages ​​and tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![Termux](https://img.shields.io/badge/Termux-232526?style=plastic&logo=termux&logoColor=white)
