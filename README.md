@@ -28,10 +28,10 @@
 
 ## 📈 Activity
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=m1croslash&theme=github-light&bg_color=0A0A0A&title_color=EAEAEA&color=EAEAEA&line=EAEAEA&area=true&area_color=1A1A1A)](https://github.com/m1croslash)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=m1croslash&theme=github-dark&bg_color=0A0A0A&title_color=EAEAEA&color=EAEAEA&line=EAEAEA&area=true&area_color=1A1A1A)](https://github.com/m1croslash)
 
 
 </div>
 
 
-![snake gif](https://github.com/m1croslash/m1croslash/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/m1croslash/m1croslash/blob/output/github-snake.svg)
