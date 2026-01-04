@@ -6,7 +6,7 @@
 
 ---
 
-### 💻 Languages & Tools
+### 💻 Languages & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
@@ -24,9 +24,15 @@
 ![Tails](https://img.shields.io/badge/Tails-41B6D9?style=plastic&logo=tails&logoColor=white)
 ![ByeByeDPI](https://img.shields.io/badge/ByeByeDPI-49A5F1?style=plastic&logo=flask&logoColor=white)
 
+## ⌨️ Contact with me:
+
+<a href="https://discord.com/users/1105061617550512189">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white"/>
+</a>
+
 ---
 
-## 📈 Activity
+## 📈 Activity:
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=m1croslash&theme=github-dark&bg_color=0A0A0A&title_color=EAEAEA&color=EAEAEA&line=EAEAEA&area=true&area_color=1A1A1A)](https://github.com/m1croslash)
 
