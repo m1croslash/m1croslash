@@ -32,3 +32,6 @@
 
 
 </div>
+
+
+![snake gif](https://github.com/m1croslash/m1croslash/blob/output/github-snake-dark.svg)
