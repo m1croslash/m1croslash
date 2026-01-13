@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm m1croslash
-
 ⚙️ **Developer | Linux User | Networking & Security Enthusiast**  
 
 ---
