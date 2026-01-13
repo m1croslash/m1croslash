@@ -1,6 +1,6 @@
 <div align="center">
 
-⚙️ **Developer | Linux User | Networking & Security Enthusiast**  
+⚙️ ## **Developer | Linux User | Networking & Security Enthusiast**  
 
 ---
 
