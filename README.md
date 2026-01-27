@@ -1,6 +1,6 @@
-# Hey there!
-**Systems Analysis & Development Student**
-______________
+# Hey there 👋
+**Systems Analysis & Development Student | Tech Enthusiast**
+- - -
 ## 💼 Technical Skills
 **Environment & Tools:**
 * Python
