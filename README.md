@@ -5,6 +5,7 @@
 **Environment & Tools:**
 * Python
 * JavaScript
+* React
 * HTML / CSS
 * Django
 * MySQL
