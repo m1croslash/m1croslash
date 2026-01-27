@@ -13,6 +13,7 @@
 * PostgreSQL
 * Git
 * VSCode
+* Obsidian
 * Command Line Interface
 
 **System Experience:**
