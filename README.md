@@ -16,8 +16,8 @@
 **System Experience:**
 * Linux (daily use)
 - - -
-> "The best way to predict the future is to create it." – Alan Kay
-- - -
+> We are the architects of our own digital worlds
+
 <div align="center">
   
   ![snake gif](https://github.com/m1croslash/m1croslash/blob/output/github-snake.svg)
