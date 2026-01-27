@@ -1,8 +1,6 @@
 # Hey there 👋
 ______________
-
 ## Technical Skills
-***
 **💼 Environment & Tools:**
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,4 +17,5 @@ ______________
 </div>
 
 **Status:**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=m1croslash&color=blue)
