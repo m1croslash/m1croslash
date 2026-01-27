@@ -8,6 +8,8 @@
 * HTML / CSS
 * Django
 * MySQL
+* Docker
+* SQLite
 * PostgreSQL
 * Git
 * VSCode
