@@ -1,5 +1,5 @@
 # Hey there 👋
-**Systems Analysis & Development Student | Tech Enthusiast**
+**Systems Analysis & Development Student | Tech Enthusiast | Full-stack Developer**
 - - -
 ## 💼 Technical Skills
 **Environment & Tools:**
