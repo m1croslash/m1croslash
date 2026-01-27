@@ -1,6 +1,7 @@
 # Hey there!
+**Systems Analysis & Development Student**
 ______________
-## Technical Skills
+## 💼 Technical Skills
 **Environment & Tools:**
 * Python
 * JavaScript
@@ -10,9 +11,11 @@ ______________
 * PostgreSQL
 * Git
 * VSCode
+* Command Line Interface
 
 **System Experience:**
 * Linux (daily use)
+_____________________
 
 <div align="center">
   
