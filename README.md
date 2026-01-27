@@ -1,14 +1,17 @@
-# Hey there 👋
+# Hey there!
 ______________
 ## Technical Skills
-**💼 Environment & Tools:**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,django,js,css,html,obsidian,vscode,postgres,github" />
-  </a>
-</p>
+**Environment & Tools:**
+* Python
+* JavaScript
+* HTML / CSS
+* Django
+* MySQL
+* PostgreSQL
+* Git
+* VSCode
 
-**💻 System Experience:**
+**System Experience:**
 * Linux (daily use)
 
 <div align="center">
@@ -16,6 +19,3 @@ ______________
   ![snake gif](https://github.com/m1croslash/m1croslash/blob/output/github-snake.svg)
 </div>
 
-**Status:**
-
-![Profile Views](https://komarev.com/ghpvc/?username=m1croslash&color=blue)
