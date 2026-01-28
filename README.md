@@ -10,9 +10,11 @@
 * Command Line Interface
 * Obsidian
 * VSCode
+
 **Currently Learning:**
 * JavaScript
 * React
+
 **System Experience:**
 * Linux (daily use)
 - - -
