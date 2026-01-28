@@ -5,7 +5,7 @@
 **Environment & Tools:**
 * Python
 * HTML / CSS
-* Git
+* Git & GitHub
 * Django
 * Command Line Interface
 * Obsidian
