@@ -4,19 +4,15 @@
 ## 💼 Technical Skills
 **Environment & Tools:**
 * Python
+* HTML / CSS
+* Git
+* Django
+* Command Line Interface
+* Obsidian
+* VSCode
+**Currently Learning:**
 * JavaScript
 * React
-* HTML / CSS
-* Django
-* MySQL
-* Docker
-* SQLite
-* PostgreSQL
-* Git
-* VSCode
-* Obsidian
-* Command Line Interface
-
 **System Experience:**
 * Linux (daily use)
 - - -
