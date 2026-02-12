@@ -1,10 +1,9 @@
 # Hey there 👋
-**Systems Analysis & Development Student | Tech Enthusiast | Full-stack Developer**
+**Systems Analysis & Development Student | Tech Enthusiast | Cyber Security**
 - - -
 ## 💼 Technical Skills
 **Environment & Tools:**
 * Python
-* HTML / CSS
 * Git & GitHub
 * Django
 * Command Line Interface
@@ -12,8 +11,7 @@
 * VSCode
 
 **Currently Learning:**
-* JavaScript
-* React
+* C
 
 **System Experience:**
 * Linux (daily use)
