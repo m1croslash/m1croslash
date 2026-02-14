@@ -6,6 +6,7 @@
 * Python
 * Git & GitHub
 * Django
+* PostgreSQL
 * Docker
 * Command Line Interface
 * Obsidian
